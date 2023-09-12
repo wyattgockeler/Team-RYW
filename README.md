@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+# Team RYW Repository
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Purpose: Create a revised model of an app with changes/redesigns
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Selected App: Spotify
+
+Collaborators: Ryan Catania, Yuness Rachidi, Wyatt Gockeler
